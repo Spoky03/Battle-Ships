@@ -1,0 +1,1 @@
+plansza.tab[x][y]
